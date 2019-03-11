@@ -15,7 +15,7 @@ end
   #       if  && !position_taken?(board, index.to_i - 1)  
   #       return false
   #     else 
-  #       return true
+  #       return true 
   # end 
    
      
