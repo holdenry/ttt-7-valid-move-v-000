@@ -13,9 +13,9 @@ end
     end  
     
         if index.to_i.between?(0, 8) && !position_taken?(board, index.to_i - 1)  
-        return true 
-      else 
         return false
+      else 
+        return true
    end 
    
      
